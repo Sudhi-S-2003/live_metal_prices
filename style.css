@@ -1,0 +1,20 @@
+body{
+    background: url(metal.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.details{
+    background-color: rgba(34, 32, 32, 0.5);
+    color: white;
+    padding: 30px;
+    text-align: center;
+    margin-top: -20%;
+    text-transform: capitalize;
+    word-wrap:break-word;
+    }
+    .details img{
+        height:  100px;
+        aspect-ratio: 1/1;
+        border-radius: 50%;
+    }

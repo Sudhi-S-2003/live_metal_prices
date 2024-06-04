@@ -1,0 +1,11 @@
+const colors = {
+    aluminum: '#B0C4DE', // Light Steel Blue
+    copper: '#B87333', // Copper
+    palladium: '#CED2D4', // Light Gray
+    platinum: '#E5E4E2', // Platinum
+    lead: '#6E6E6E', // Dark Gray
+    silver: '#C0C0C0', // Silver
+    gold: '#FFD700', // Gold
+    nickel: '#727472', // Nickel Gray
+    zinc: '#7C7C7C' // Zinc Gray
+};
